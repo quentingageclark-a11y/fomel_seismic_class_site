@@ -2,7 +2,7 @@
 title: "Imaging"
 order: 5
 chapter: 4
-section: 1
+section: 5
 tags: ["module4", "track_julia", "track_material", "Pluto", "PlutoUI"]
 layout: "md.jlmd"
 ---
