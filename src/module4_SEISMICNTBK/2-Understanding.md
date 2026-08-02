@@ -2,7 +2,7 @@
 title: "Understanding"
 order: 4
 chapter: 4
-section: 1
+section: 4
 tags: ["module4", "track_julia", "track_material", "Pluto", "PlutoUI"]
 layout: "md.jlmd"
 ---
