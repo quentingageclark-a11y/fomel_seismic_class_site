@@ -2,7 +2,7 @@
 title: "Attributes"
 order: 6
 chapter: 4
-section: 1
+section: 6
 tags: ["module4", "track_julia", "track_material", "Pluto", "PlutoUI"]
 layout: "md.jlmd"
 ---
