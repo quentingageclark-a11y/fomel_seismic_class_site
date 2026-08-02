@@ -2,7 +2,7 @@
 title: "First Look"
 order: 3
 chapter: 4
-section: 1
+section: 3
 image: "https://github.com/quentingageclark-a11y/research_3/blob/main/src/assets/imagesandgifs/julia00im.png?raw=true"
 tags: ["module4", "track_julia", "track_material", "Pluto", "PlutoUI"]
 layout: "md.jlmd"
