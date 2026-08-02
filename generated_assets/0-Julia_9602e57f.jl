@@ -3,7 +3,7 @@
 
 #> [frontmatter]
 #> chapter = 4
-#> section = 1
+#> section = 2
 #> order = 2
 #> image = "https://github.com/quentingageclark-a11y/research_3/blob/main/src/assets/imagesandgifs/julia00im.png?raw=true"
 #> title = "Who is Julia?"
