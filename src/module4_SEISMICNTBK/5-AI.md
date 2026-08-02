@@ -2,7 +2,7 @@
 title: "AI"
 order: 7
 chapter: 4
-section: 1
+section: 7
 tags: ["module4", "track_julia", "track_material", "Pluto", "PlutoUI"]
 layout: "md.jlmd"
 ---
